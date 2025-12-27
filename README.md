@@ -1,5 +1,9 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
+
+By HITHESH RAJ R K
+REGISTER NUMBER : 25016560
+
+## DATE: 21/11/2025
 
 ## AIM:
 To create a 3D model from given orthographic projection.
